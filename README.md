@@ -7,8 +7,6 @@ The server will apply NAT to the client's traffic so it will appear as if the cl
 
 The script supports both IPv4 and IPv6. Please check the [issues](https://github.com/american-it/wireguard-install/issues) for ongoing development, bugs and planned features!
 
-WireGuard does not fit your environment? Check out [openvpn-install](https://github.com/american-it/openvpn-install).
-
 ## Requirements
 
 Supported distributions:
